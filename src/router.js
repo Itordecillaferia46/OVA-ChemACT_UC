@@ -30,7 +30,7 @@ const routes = [
       component: inicio
     },
     {
-        path: "/principal",
+        path: "/principal1",
         name: "principal1",
         component: principal1,
 
